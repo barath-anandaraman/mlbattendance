@@ -8,7 +8,7 @@ To explore and run the analysis:
 Clone the repository:
 ``` Bash
 git clone https://github.com/barath-anandaraman/mlbattendance.git
-cd lottery-numbers
+cd mlbattendance
 # Install Dependencies: It's recommended to use a virtual environment.
 
 
